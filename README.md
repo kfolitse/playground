@@ -1,4 +1,4 @@
-# Playground
+# Komla Amenyo
 
 A place to play with `git`.
 
