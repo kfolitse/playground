@@ -1,4 +1,4 @@
-# Komla Amenyo
+# Komla Amenyo Folitse
 
 A place to play with `git`.
 
