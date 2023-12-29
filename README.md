@@ -1,7 +1,6 @@
-# Havard Winter Courses
+# Playground
 
-## CS107
-## CS205
+Komla is taking CS107
 
 A place to play with `git`.
 
